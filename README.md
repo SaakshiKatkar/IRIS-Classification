@@ -28,5 +28,7 @@ Support Vector Machine is a powerful algorithm for classification tasks. It seek
 A Decision Tree is a versatile algorithm for both classification and regression tasks. In this project, a Decision Tree is constructed to classify Iris flowers based on their feature attributes.
 
 
+We are making accuracy and prediction in Iris project through Iris Dataset.
+This is easy and understable for machine learning staters( Naive ).
 
-
+PS: Please do not forget to drop a star if you like it!
